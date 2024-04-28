@@ -1,0 +1,21 @@
+{
+  "name": "smiget",
+  "displayName": "Smiget",
+  "description": "sssmiget!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Smiget",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smiget-color-theme.json"
+      }
+    ]
+  }
+}
