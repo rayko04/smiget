@@ -1,23 +1,8 @@
 # smiget README
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Dont like the syntax colors of one theme on your VS Code but the background coloring is just your taste? Well here's how you can "mix two themes" and move a step towards a personalized VS Code environment! Smiget is the mixture of One Dark Pro Flat and 2017 Dark(default) themes.
 
 ## How to?
-
-Dont like the syntax colors of one theme on your vs code but the background coloring is just your taste? Well here's how you can "mix two themes" and move a step towards a personallized theme! Smiget is the mixture of One Dark Pro Flat and 2017 Dark vs code themes.
 
 ### Step 1: Install Yo Code Generator
 * Open your desired terminal, i used the vs code integrated terminal for cmd.
