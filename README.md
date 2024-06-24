@@ -21,4 +21,6 @@ Dont like the syntax colors of one theme on your VS Code but the background colo
 * Open theme.json file
 * You can customize each attribute listed on "https://code.visualstudio.com/api/references/theme-color" manually.
 * Inside the json file, you will see "color{}" and "token-color{}" groups. Color group stands for app color combinations while token for syntax.
-* Simply copy paste one group from a theme of your own choice and other group from another theme for a mixed themed!
+* Simply copy paste one group from a theme of your own choice and other group from another theme for a mixed style theme!
+* You can find your downloaded themes in extentions folder usually in "C:\Users\User_name\.vscode\extensions"
+* Finally copy and paste your theme folder in extensions folder.
